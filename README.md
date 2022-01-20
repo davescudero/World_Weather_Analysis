@@ -12,9 +12,9 @@ lat_lngs=zip(lats,lngs)
 lat_lngs
 ```
 2. Then we need to filter the data with the preferred characteristics of the desired destinations
-![Preferred_cities.png]()
+![Preferred_cities.png](https://github.com/davescudero/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Itinerary/Preferred_cities.png)
 3. After we had our filter data we have to add marker layer to the desired map with gmaps
-![WeatherPy_vacation_map.png]()
+![WeatherPy_vacation_map.png](https://github.com/davescudero/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Search/WeatherPy_vacation_map.png)
 4. Finally, we selected four random cities to plan a vacation and randomly selected four Brazil's cities. Below is the itinerary which starts and end in Ontario.
 
 Start at: Ontario, US
@@ -23,5 +23,6 @@ VIsit Xaltianguis, Mx
 Visit Puerto Escondido, Mx
 Finish with Nata, Pa
 With the use of waypoints we were able to map the driving route to visit these four cities
-![WeatherPy_travel_map.png]()
+![WeatherPy_travel_map.png](https://github.com/davescudero/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map.png)
 
+WE CAN ENJOY OUR VACATIONS IN MEXICO
