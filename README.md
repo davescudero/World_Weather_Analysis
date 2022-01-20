@@ -18,10 +18,10 @@ lat_lngs
 4. Finally, we selected four random cities to plan a vacation and randomly selected four Brazil's cities. Below is the itinerary which starts and end in Ontario.
 
 Start at: Ontario, US
-Visit Cabo San Lucas, Mx
-VIsit Xaltianguis, Mx
-Visit Puerto Escondido, Mx
-Finish with Nata, Pa
+-Visit Cabo San Lucas, Mx
+-VIsit Xaltianguis, Mx
+-Visit Puerto Escondido, Mx
+-Finish with Nata, Pa
 With the use of waypoints we were able to map the driving route to visit these four cities
 ![WeatherPy_travel_map.png](https://github.com/davescudero/World_Weather_Analysis/blob/main/World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map.png)
 
